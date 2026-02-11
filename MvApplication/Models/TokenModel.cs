@@ -1,6 +1,0 @@
-﻿namespace MvApplication.Models;
-
-public record TokenModel {
-  public string Token { get; init; } = null!;
-  public DateTime ExpiredAt { get; init; }
-}

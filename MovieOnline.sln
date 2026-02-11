@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvPresentation", "MvPresentation\MvPresentation.csproj", "{8C986C04-DF38-4511-B29B-99F1EECD2ED7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mv.Presentation", "Mv.Presentation\Mv.Presentation.csproj", "{8C986C04-DF38-4511-B29B-99F1EECD2ED7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvDomain", "MvDomain\MvDomain.csproj", "{5F00C749-8128-4D0D-9E0A-5548F54A44B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mv.Domain", "Mv.Domain\Mv.Domain.csproj", "{5F00C749-8128-4D0D-9E0A-5548F54A44B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvApplication", "MvApplication\MvApplication.csproj", "{D96C24BF-F47C-4BD4-8128-F500A561C372}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mv.Application", "Mv.Application\Mv.Application.csproj", "{D96C24BF-F47C-4BD4-8128-F500A561C372}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvInfrastructure", "MvInfrastructure\MvInfrastructure.csproj", "{F5DFF6D2-0F85-4083-AADC-72513143C7F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mv.Infrastructure", "Mv.Infrastructure\Mv.Infrastructure.csproj", "{F5DFF6D2-0F85-4083-AADC-72513143C7F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
